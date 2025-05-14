@@ -1,4 +1,4 @@
-package abstractclass;
+package javaPractice;
 
 public abstract class AbstractParent {
 	public abstract void color();
